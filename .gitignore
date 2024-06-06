@@ -1,8 +1,0 @@
-#i gnore state files
-## .tfstate files
-*.tfstate
-*.tfstate.*
-
-
-# Local .terraform directories
-**/.terraform/*
